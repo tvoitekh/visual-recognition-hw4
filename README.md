@@ -13,7 +13,7 @@ The core approach utilizes the PromptIR model, which features a **U-Net-like str
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/tvoitekh/visual-recognition-hw4.git](https://github.com/tvoitekh/visual-recognition-hw4.git)
+    git clone https://github.com/tvoitekh/visual-recognition-hw4.git
     cd visual-recognition-hw4
     ```
 
