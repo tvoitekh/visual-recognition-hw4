@@ -122,7 +122,7 @@ The core approach utilizes the PromptIR model, which features a **U-Net-like str
 
 <img width="1153" alt="image" src="https://github.com/user-attachments/assets/9e06c169-4a8e-40c9-8d2a-0821be0acf44" />
 
-The final model configuration achieves a validation **PSNR of approximately 28.32 dB** on the image restoration task.
+The final model configuration achieves a validation **PSNR of 30.38 dB** on the image restoration task.
 
 Key performance features:
 * Based on **PromptIR architecture** with a U-Net like structure and Transformer blocks.
